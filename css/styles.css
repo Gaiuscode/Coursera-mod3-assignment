@@ -23,12 +23,12 @@ a h1 {
     font-size: 1.2em;
 }
 
-#menu-item {
+#menu-text {
     margin: 0;
     height: 1200px;
 }
 
-#menu-text {
+#menu-item1, #menu-item2, #menu-item3 {
     background: lightslategray;
     margin-bottom: 25px;
     padding: 2rem;
@@ -43,7 +43,7 @@ a h1 {
         padding-bottom: 0;
     }
 
-    #menu-text {
+    #menu-item1, #menu-item2,#menu-item3 {
         padding: 12px 25px;
     }
 
