@@ -23,6 +23,8 @@ a h1 {
     font-size: 1.2em;
 }
 
+/* menu start */
+
 #menu-text {
     margin: 0;
     height: 1200px;
@@ -37,6 +39,8 @@ a h1 {
 .menu-food {
     margin: 0 auto 10px;
 }
+
+/* menu  end*/
 
 @media (max-width: 767px) {
     nav {
